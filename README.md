@@ -15,3 +15,12 @@ BMI Range Table
 
 This project is build upon Kotlin.
 Calculates the BMI number taking the height(in cm) and weight(in kg ) into consideration.Also an additional message is displayed describing under which category the body mass falls (Underweight, healthy, Overweight).
+
+Project Demonstration link:-
+  https://youtu.be/HyzjBqKOtB4
+  
+Google Developers Profile:-
+  https://g.dev/ganesh1205
+  
+Android Project Details:-
+  https://docs.google.com/document/d/19nBOsUBj22rn3KN9Z51GLtNZiSVHgV49/edit?usp=share_link&ouid=102007343541963096256&rtpof=true&sd=true
