@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="kg">kg</string>
+    <string name="weight">Weight</string>
+    <string name="cm">cm</string>
+    <string name="get_more_info">Get More Info</string>
+    <string name="textview">TextView</string>
+    <string name="suggestions">Suggestions:-</string>
+    <string name="underweight">"BMI indicates that the person has insufficient weight</string>
+    <string name="healthy">"BMI indicates that the person has a healthy weight for their height."</string>
+    <string name="overweight">"BMI indicates that the person is slightly overweight."</string>
+    <string name="obese">"BMI indicates that a person has obesity."</string>
+    <string name="suggest">TextView</string>
+</resources>
